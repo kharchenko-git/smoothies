@@ -7,6 +7,7 @@ smoothiefroot_response = requests.get("[https://my.smoothiefroot.com/api/fruit/w
 st.text(smoothiefroot_response)
 
 
+
 # Write directly to the app
 st.title(f"Customize Your Smoothie! :cup_with_straw: ")
 st.write(
