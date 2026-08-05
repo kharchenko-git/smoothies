@@ -2,3 +2,4 @@ setuptools==69.5.1
 snowflake-snowpark-python
 streamlit>=1.37.0
 tornado==6.3.3
+requests
