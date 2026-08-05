@@ -1,4 +1,4 @@
 # requirements.txt
 snowflake-snowpark-python
 streamlit
-tornado==6.3.3
+tornado==6.4.2
